@@ -1,0 +1,29 @@
+abstract class AuthTranslationKeys {
+  static const login = "login";
+  static const forgotPassword = "forgot_password";
+  static const signUp = "sign_up";
+  static const dontHaveAccount = "dont_have_an_account";
+  static const signIn = "sign_in";
+  static const emailAddress = "email_address";
+  static const password = "password";
+  static const pleaseSignInToContinue = "please_sign_in_to_continue";
+  static const createAccount = "create_account";
+  static const alreadyHaveAnAccount = "already_have_an_account";
+  static const proceed = "proceed";
+  static const pleaseSpecifyYourRole = "please_specify_your_role";
+  static const iamAPharmacist = "i_am_a_pharmacist";
+  static const iamATechnician = "i_am_a_technician";
+  static const firstName = "first_name";
+  static const lastName = "last_name";
+  static const eircodePostcode = "eircode_postcode";
+  static const validate = "validate";
+  static const confirmPassword = "confirm_password";
+  static const passwordDidntMatch = "password_didnt_match";
+  static const mobile = "mobile";
+  static const psiNumber = "psi_number";
+  static const psiLookup = "psi_lookup";
+  static const ppsNumber = "pps_number";
+  static const personalDetailsCaps = "personal_details_caps";
+  static const pharmaceuticalInformation = "pharmaceutical_information";
+  static const dateOfBirth = "date_of_birth";
+}

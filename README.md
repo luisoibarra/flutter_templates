@@ -16,3 +16,5 @@ The templates are made to start coding right away. Follow this steps to use the 
 
 - [GetX Template](getx_template/README.md)
 - [MobX Template](mobx_template/README.md)
+- [BloC Template](bloc_template/README.md)
+- [GetX Feature Template](getx_by_features_template/README.md)
